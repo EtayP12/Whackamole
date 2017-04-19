@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Whack a mole</string>
+    <string name="btn_started">Started!</string>
+</resources>
